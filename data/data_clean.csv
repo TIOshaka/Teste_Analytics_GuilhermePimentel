@@ -1,0 +1,301 @@
+ID_Venda,ID_Produto,ID_Data,Quantidade,Preco_Unitario,Nome_Produto,Categoria,Data_Completa,Ano,Mes,Dia,Nome_Mes,Trimestre,Receita
+1,15,180,2,693.82,Hic Esse,Casa e Cozinha,2023-06-29,2023,6,29,Junho,T2,1387.64
+2,11,24,17,210.99,Rerum Error,Esportes,2023-01-24,2023,1,24,Janeiro,T1,3586.83
+3,4,217,20,64.36,Ipsum Nihil,Esportes,2023-08-05,2023,8,5,Agosto,T3,1287.20
+4,12,83,3,556.67,Veritatis Optio,Esportes,2023-03-24,2023,3,24,Março,T1,1670.01
+5,1,161,21,62.32,Repellendus Tempore,Casa e Cozinha,2023-06-10,2023,6,10,Junho,T2,1308.72
+6,13,235,5,435.20,Officiis Culpa,Eletrônicos,2023-08-23,2023,8,23,Agosto,T3,2176.00
+7,14,332,1,742.53,Ullam Accusamus,Casa e Cozinha,2023-11-28,2023,11,28,Novembro,T4,742.53
+8,5,177,16,171.01,Placeat Sint,Livros,2023-06-26,2023,6,26,Junho,T2,2736.16
+9,5,250,6,339.16,Placeat Sint,Livros,2023-09-07,2023,9,7,Setembro,T3,2034.96
+10,14,50,10,127.75,Ullam Accusamus,Casa e Cozinha,2023-02-19,2023,2,19,Fevereiro,T1,1277.50
+11,4,77,19,289.82,Ipsum Nihil,Esportes,2023-03-18,2023,3,18,Março,T1,5506.58
+12,14,278,7,25.85,Ullam Accusamus,Casa e Cozinha,2023-10-05,2023,10,5,Outubro,T4,180.95
+13,15,209,8,239.00,Hic Esse,Casa e Cozinha,2023-07-28,2023,7,28,Julho,T3,1912.00
+14,12,215,11,564.79,Veritatis Optio,Esportes,2023-08-03,2023,8,3,Agosto,T3,6212.69
+15,5,339,3,748.13,Placeat Sint,Livros,2023-12-05,2023,12,5,Dezembro,T4,2244.39
+16,15,103,3,646.26,Hic Esse,Casa e Cozinha,2023-04-13,2023,4,13,Abril,T2,1938.78
+17,9,240,7,21.48,Incidunt Ea,Esportes,2023-08-28,2023,8,28,Agosto,T3,150.36
+18,10,171,16,38.98,Excepturi Enim,Casa e Cozinha,2023-06-20,2023,6,20,Junho,T2,623.68
+19,15,41,5,487.60,Hic Esse,Casa e Cozinha,2023-02-10,2023,2,10,Fevereiro,T1,2438.00
+20,9,17,7,425.92,Incidunt Ea,Esportes,2023-01-17,2023,1,17,Janeiro,T1,2981.44
+21,1,48,5,674.43,Repellendus Tempore,Casa e Cozinha,2023-02-17,2023,2,17,Fevereiro,T1,3372.15
+22,1,220,7,424.52,Repellendus Tempore,Casa e Cozinha,2023-08-08,2023,8,8,Agosto,T3,2971.64
+23,9,116,21,173.51,Incidunt Ea,Esportes,2023-04-26,2023,4,26,Abril,T2,3643.71
+24,1,38,6,538.02,Repellendus Tempore,Casa e Cozinha,2023-02-07,2023,2,7,Fevereiro,T1,3228.12
+25,15,21,2,844.94,Hic Esse,Casa e Cozinha,2023-01-21,2023,1,21,Janeiro,T1,1689.88
+26,5,285,6,819.52,Placeat Sint,Livros,2023-10-12,2023,10,12,Outubro,T4,4917.12
+27,14,283,11,251.21,Ullam Accusamus,Casa e Cozinha,2023-10-10,2023,10,10,Outubro,T4,2763.31
+28,9,225,5,698.53,Incidunt Ea,Esportes,2023-08-13,2023,8,13,Agosto,T3,3492.65
+29,1,76,6,509.45,Repellendus Tempore,Casa e Cozinha,2023-03-17,2023,3,17,Março,T1,3056.70
+30,11,164,6,635.64,Rerum Error,Esportes,2023-06-13,2023,6,13,Junho,T2,3813.84
+31,2,240,6,710.83,Dolores Quos,Casa e Cozinha,2023-08-28,2023,8,28,Agosto,T3,4264.98
+32,10,284,2,767.03,Excepturi Enim,Casa e Cozinha,2023-10-11,2023,10,11,Outubro,T4,1534.06
+33,1,269,12,386.67,Repellendus Tempore,Casa e Cozinha,2023-09-26,2023,9,26,Setembro,T3,4640.04
+34,10,309,5,378.55,Excepturi Enim,Casa e Cozinha,2023-11-05,2023,11,5,Novembro,T4,1892.75
+35,14,34,3,771.99,Ullam Accusamus,Casa e Cozinha,2023-02-03,2023,2,3,Fevereiro,T1,2315.97
+36,2,74,19,96.54,Dolores Quos,Casa e Cozinha,2023-03-15,2023,3,15,Março,T1,1834.26
+37,5,75,15,58.07,Placeat Sint,Livros,2023-03-16,2023,3,16,Março,T1,871.05
+38,11,98,1,714.33,Rerum Error,Esportes,2023-04-08,2023,4,8,Abril,T2,714.33
+39,4,193,3,737.72,Ipsum Nihil,Esportes,2023-07-12,2023,7,12,Julho,T3,2213.16
+40,2,42,10,383.40,Dolores Quos,Casa e Cozinha,2023-02-11,2023,2,11,Fevereiro,T1,3834.00
+41,10,302,11,42.46,Excepturi Enim,Casa e Cozinha,2023-10-29,2023,10,29,Outubro,T4,467.06
+42,3,65,1,701.33,Ipsam Mollitia,Eletrônicos,2023-03-06,2023,3,6,Março,T1,701.33
+43,6,151,13,262.33,Pariatur Expedita,Roupas,2023-05-31,2023,5,31,Maio,T2,3410.29
+44,6,216,12,288.20,Pariatur Expedita,Roupas,2023-08-04,2023,8,4,Agosto,T3,3458.40
+45,11,134,4,535.42,Rerum Error,Esportes,2023-05-14,2023,5,14,Maio,T2,2141.68
+46,2,239,9,247.16,Dolores Quos,Casa e Cozinha,2023-08-27,2023,8,27,Agosto,T3,2224.44
+47,7,14,11,362.47,Nulla Dolor,Livros,2023-01-14,2023,1,14,Janeiro,T1,3987.17
+48,15,129,6,529.94,Hic Esse,Casa e Cozinha,2023-05-09,2023,5,9,Maio,T2,3179.64
+49,1,277,18,190.86,Repellendus Tempore,Casa e Cozinha,2023-10-04,2023,10,4,Outubro,T4,3435.48
+50,14,133,3,426.32,Ullam Accusamus,Casa e Cozinha,2023-05-13,2023,5,13,Maio,T2,1278.96
+51,8,222,5,447.36,Hic Quis,Roupas,2023-08-10,2023,8,10,Agosto,T3,2236.80
+52,10,364,4,375.62,Excepturi Enim,Casa e Cozinha,2023-12-30,2023,12,30,Dezembro,T4,1502.48
+53,13,72,5,473.26,Officiis Culpa,Eletrônicos,2023-03-13,2023,3,13,Março,T1,2366.30
+54,3,318,21,182.54,Ipsam Mollitia,Eletrônicos,2023-11-14,2023,11,14,Novembro,T4,3833.34
+55,1,265,16,138.91,Repellendus Tempore,Casa e Cozinha,2023-09-22,2023,9,22,Setembro,T3,2222.56
+56,11,321,5,483.69,Rerum Error,Esportes,2023-11-17,2023,11,17,Novembro,T4,2418.45
+57,6,183,3,813.94,Pariatur Expedita,Roupas,2023-07-02,2023,7,2,Julho,T3,2441.82
+58,7,205,6,43.24,Nulla Dolor,Livros,2023-07-24,2023,7,24,Julho,T3,259.44
+59,13,328,3,844.20,Officiis Culpa,Eletrônicos,2023-11-24,2023,11,24,Novembro,T4,2532.60
+60,5,231,1,810.69,Placeat Sint,Livros,2023-08-19,2023,8,19,Agosto,T3,810.69
+61,11,340,2,384.74,Rerum Error,Esportes,2023-12-06,2023,12,6,Dezembro,T4,769.48
+62,14,354,3,641.50,Ullam Accusamus,Casa e Cozinha,2023-12-20,2023,12,20,Dezembro,T4,1924.50
+63,3,314,3,853.75,Ipsam Mollitia,Eletrônicos,2023-11-10,2023,11,10,Novembro,T4,2561.25
+64,2,138,3,805.45,Dolores Quos,Casa e Cozinha,2023-05-18,2023,5,18,Maio,T2,2416.35
+65,7,244,14,165.22,Nulla Dolor,Livros,2023-09-01,2023,9,1,Setembro,T3,2313.08
+66,1,79,9,120.69,Repellendus Tempore,Casa e Cozinha,2023-03-20,2023,3,20,Março,T1,1086.21
+67,2,264,2,716.34,Dolores Quos,Casa e Cozinha,2023-09-21,2023,9,21,Setembro,T3,1432.68
+68,4,77,2,319.00,Ipsum Nihil,Esportes,2023-03-18,2023,3,18,Março,T1,638.00
+69,2,181,6,132.80,Dolores Quos,Casa e Cozinha,2023-06-30,2023,6,30,Junho,T2,796.80
+70,13,19,6,291.42,Officiis Culpa,Eletrônicos,2023-01-19,2023,1,19,Janeiro,T1,1748.52
+71,7,75,10,470.77,Nulla Dolor,Livros,2023-03-16,2023,3,16,Março,T1,4707.70
+72,4,274,3,416.58,Ipsum Nihil,Esportes,2023-10-01,2023,10,1,Outubro,T4,1249.74
+73,6,148,3,340.69,Pariatur Expedita,Roupas,2023-05-28,2023,5,28,Maio,T2,1022.07
+74,14,255,14,224.39,Ullam Accusamus,Casa e Cozinha,2023-09-12,2023,9,12,Setembro,T3,3141.46
+75,6,159,9,27.80,Pariatur Expedita,Roupas,2023-06-08,2023,6,8,Junho,T2,250.20
+76,7,33,5,438.76,Nulla Dolor,Livros,2023-02-02,2023,2,2,Fevereiro,T1,2193.80
+77,11,44,6,464.10,Rerum Error,Esportes,2023-02-13,2023,2,13,Fevereiro,T1,2784.60
+78,13,203,2,349.69,Officiis Culpa,Eletrônicos,2023-07-22,2023,7,22,Julho,T3,699.38
+79,7,325,9,236.07,Nulla Dolor,Livros,2023-11-21,2023,11,21,Novembro,T4,2124.63
+80,10,212,1,737.89,Excepturi Enim,Casa e Cozinha,2023-07-31,2023,7,31,Julho,T3,737.89
+81,2,294,4,278.61,Dolores Quos,Casa e Cozinha,2023-10-21,2023,10,21,Outubro,T4,1114.44
+82,9,310,8,124.97,Incidunt Ea,Esportes,2023-11-06,2023,11,6,Novembro,T4,999.76
+83,9,165,3,465.14,Incidunt Ea,Esportes,2023-06-14,2023,6,14,Junho,T2,1395.42
+84,8,123,6,714.38,Hic Quis,Roupas,2023-05-03,2023,5,3,Maio,T2,4286.28
+85,6,356,1,851.09,Pariatur Expedita,Roupas,2023-12-22,2023,12,22,Dezembro,T4,851.09
+86,10,46,4,838.31,Excepturi Enim,Casa e Cozinha,2023-02-15,2023,2,15,Fevereiro,T1,3353.24
+87,15,77,6,369.46,Hic Esse,Casa e Cozinha,2023-03-18,2023,3,18,Março,T1,2216.76
+88,2,201,20,169.42,Dolores Quos,Casa e Cozinha,2023-07-20,2023,7,20,Julho,T3,3388.40
+89,5,336,5,787.02,Placeat Sint,Livros,2023-12-02,2023,12,2,Dezembro,T4,3935.10
+90,1,10,8,119.77,Repellendus Tempore,Casa e Cozinha,2023-01-10,2023,1,10,Janeiro,T1,958.16
+91,9,50,2,682.38,Incidunt Ea,Esportes,2023-02-19,2023,2,19,Fevereiro,T1,1364.76
+92,7,250,10,546.41,Nulla Dolor,Livros,2023-09-07,2023,9,7,Setembro,T3,5464.10
+93,8,116,2,860.94,Hic Quis,Roupas,2023-04-26,2023,4,26,Abril,T2,1721.88
+94,11,127,18,60.57,Rerum Error,Esportes,2023-05-07,2023,5,7,Maio,T2,1090.26
+95,12,170,5,641.58,Veritatis Optio,Esportes,2023-06-19,2023,6,19,Junho,T2,3207.90
+96,4,42,9,105.07,Ipsum Nihil,Esportes,2023-02-11,2023,2,11,Fevereiro,T1,945.63
+97,9,354,3,564.90,Incidunt Ea,Esportes,2023-12-20,2023,12,20,Dezembro,T4,1694.70
+98,11,148,5,575.34,Rerum Error,Esportes,2023-05-28,2023,5,28,Maio,T2,2876.70
+99,11,9,4,548.37,Rerum Error,Esportes,2023-01-09,2023,1,9,Janeiro,T1,2193.48
+100,4,39,9,213.66,Ipsum Nihil,Esportes,2023-02-08,2023,2,8,Fevereiro,T1,1922.94
+101,11,81,3,656.85,Rerum Error,Esportes,2023-03-22,2023,3,22,Março,T1,1970.55
+102,15,51,9,393.99,Hic Esse,Casa e Cozinha,2023-02-20,2023,2,20,Fevereiro,T1,3545.91
+103,7,316,17,187.56,Nulla Dolor,Livros,2023-11-12,2023,11,12,Novembro,T4,3188.52
+104,8,156,18,128.02,Hic Quis,Roupas,2023-06-05,2023,6,5,Junho,T2,2304.36
+105,1,49,9,339.73,Repellendus Tempore,Casa e Cozinha,2023-02-18,2023,2,18,Fevereiro,T1,3057.57
+106,9,52,6,651.08,Incidunt Ea,Esportes,2023-02-21,2023,2,21,Fevereiro,T1,3906.48
+107,10,167,11,527.62,Excepturi Enim,Casa e Cozinha,2023-06-16,2023,6,16,Junho,T2,5803.82
+108,6,110,2,837.44,Pariatur Expedita,Roupas,2023-04-20,2023,4,20,Abril,T2,1674.88
+109,7,55,20,203.48,Nulla Dolor,Livros,2023-02-24,2023,2,24,Fevereiro,T1,4069.60
+110,6,357,4,649.93,Pariatur Expedita,Roupas,2023-12-23,2023,12,23,Dezembro,T4,2599.72
+111,4,218,8,163.71,Ipsum Nihil,Esportes,2023-08-06,2023,8,6,Agosto,T3,1309.68
+112,13,152,3,696.82,Officiis Culpa,Eletrônicos,2023-06-01,2023,6,1,Junho,T2,2090.46
+113,2,267,2,611.64,Dolores Quos,Casa e Cozinha,2023-09-24,2023,9,24,Setembro,T3,1223.28
+114,14,211,5,841.09,Ullam Accusamus,Casa e Cozinha,2023-07-30,2023,7,30,Julho,T3,4205.45
+115,7,13,5,753.23,Nulla Dolor,Livros,2023-01-13,2023,1,13,Janeiro,T1,3766.15
+116,9,37,3,739.72,Incidunt Ea,Esportes,2023-02-06,2023,2,6,Fevereiro,T1,2219.16
+117,8,286,10,369.24,Hic Quis,Roupas,2023-10-13,2023,10,13,Outubro,T4,3692.40
+118,13,305,5,534.42,Officiis Culpa,Eletrônicos,2023-11-01,2023,11,1,Novembro,T4,2672.10
+119,9,5,5,500.99,Incidunt Ea,Esportes,2023-01-05,2023,1,5,Janeiro,T1,2504.95
+120,11,212,1,307.23,Rerum Error,Esportes,2023-07-31,2023,7,31,Julho,T3,307.23
+121,15,149,3,580.26,Hic Esse,Casa e Cozinha,2023-05-29,2023,5,29,Maio,T2,1740.78
+122,3,11,2,818.49,Ipsam Mollitia,Eletrônicos,2023-01-11,2023,1,11,Janeiro,T1,1636.98
+123,1,240,4,892.51,Repellendus Tempore,Casa e Cozinha,2023-08-28,2023,8,28,Agosto,T3,3570.04
+124,9,32,6,645.89,Incidunt Ea,Esportes,2023-02-01,2023,2,1,Fevereiro,T1,3875.34
+125,8,152,4,566.66,Hic Quis,Roupas,2023-06-01,2023,6,1,Junho,T2,2266.64
+126,15,153,6,344.94,Hic Esse,Casa e Cozinha,2023-06-02,2023,6,2,Junho,T2,2069.64
+127,10,158,5,513.08,Excepturi Enim,Casa e Cozinha,2023-06-07,2023,6,7,Junho,T2,2565.40
+128,8,154,2,730.59,Hic Quis,Roupas,2023-06-03,2023,6,3,Junho,T2,1461.18
+129,9,17,11,387.85,Incidunt Ea,Esportes,2023-01-17,2023,1,17,Janeiro,T1,4266.35
+130,10,279,13,259.60,Excepturi Enim,Casa e Cozinha,2023-10-06,2023,10,6,Outubro,T4,3374.80
+131,14,106,6,410.40,Ullam Accusamus,Casa e Cozinha,2023-04-16,2023,4,16,Abril,T2,2462.40
+132,9,97,10,227.07,Incidunt Ea,Esportes,2023-04-07,2023,4,7,Abril,T2,2270.70
+133,11,276,16,122.42,Rerum Error,Esportes,2023-10-03,2023,10,3,Outubro,T4,1958.72
+134,4,233,16,182.86,Ipsum Nihil,Esportes,2023-08-21,2023,8,21,Agosto,T3,2925.76
+135,11,236,16,241.95,Rerum Error,Esportes,2023-08-24,2023,8,24,Agosto,T3,3871.20
+136,8,179,6,280.18,Hic Quis,Roupas,2023-06-28,2023,6,28,Junho,T2,1681.08
+137,6,139,17,261.68,Pariatur Expedita,Roupas,2023-05-19,2023,5,19,Maio,T2,4448.56
+138,2,110,3,574.96,Dolores Quos,Casa e Cozinha,2023-04-20,2023,4,20,Abril,T2,1724.88
+139,9,163,2,833.02,Incidunt Ea,Esportes,2023-06-12,2023,6,12,Junho,T2,1666.04
+140,8,132,9,302.40,Hic Quis,Roupas,2023-05-12,2023,5,12,Maio,T2,2721.60
+141,14,90,4,671.43,Ullam Accusamus,Casa e Cozinha,2023-03-31,2023,3,31,Março,T1,2685.72
+142,5,200,4,121.00,Placeat Sint,Livros,2023-07-19,2023,7,19,Julho,T3,484.00
+143,6,198,6,368.05,Pariatur Expedita,Roupas,2023-07-17,2023,7,17,Julho,T3,2208.30
+144,10,111,7,360.65,Excepturi Enim,Casa e Cozinha,2023-04-21,2023,4,21,Abril,T2,2524.55
+145,4,158,5,326.72,Ipsum Nihil,Esportes,2023-06-07,2023,6,7,Junho,T2,1633.60
+146,2,308,4,649.35,Dolores Quos,Casa e Cozinha,2023-11-04,2023,11,4,Novembro,T4,2597.40
+147,14,38,11,155.27,Ullam Accusamus,Casa e Cozinha,2023-02-07,2023,2,7,Fevereiro,T1,1707.97
+148,15,51,2,682.66,Hic Esse,Casa e Cozinha,2023-02-20,2023,2,20,Fevereiro,T1,1365.32
+149,4,142,11,272.91,Ipsum Nihil,Esportes,2023-05-22,2023,5,22,Maio,T2,3002.01
+150,8,253,4,715.09,Hic Quis,Roupas,2023-09-10,2023,9,10,Setembro,T3,2860.36
+151,3,202,3,401.12,Ipsam Mollitia,Eletrônicos,2023-07-21,2023,7,21,Julho,T3,1203.36
+152,10,198,17,79.60,Excepturi Enim,Casa e Cozinha,2023-07-17,2023,7,17,Julho,T3,1353.20
+153,13,201,2,808.21,Officiis Culpa,Eletrônicos,2023-07-20,2023,7,20,Julho,T3,1616.42
+154,12,185,8,547.60,Veritatis Optio,Esportes,2023-07-04,2023,7,4,Julho,T3,4380.80
+155,8,64,3,623.26,Hic Quis,Roupas,2023-03-05,2023,3,5,Março,T1,1869.78
+156,10,110,3,619.31,Excepturi Enim,Casa e Cozinha,2023-04-20,2023,4,20,Abril,T2,1857.93
+157,10,240,13,96.87,Excepturi Enim,Casa e Cozinha,2023-08-28,2023,8,28,Agosto,T3,1259.31
+158,9,92,6,486.16,Incidunt Ea,Esportes,2023-04-02,2023,4,2,Abril,T2,2916.96
+159,6,141,1,562.67,Pariatur Expedita,Roupas,2023-05-21,2023,5,21,Maio,T2,562.67
+160,6,14,11,324.39,Pariatur Expedita,Roupas,2023-01-14,2023,1,14,Janeiro,T1,3568.29
+161,6,67,3,312.46,Pariatur Expedita,Roupas,2023-03-08,2023,3,8,Março,T1,937.38
+162,9,3,10,405.43,Incidunt Ea,Esportes,2023-01-03,2023,1,3,Janeiro,T1,4054.30
+163,8,233,19,272.86,Hic Quis,Roupas,2023-08-21,2023,8,21,Agosto,T3,5184.34
+164,14,186,6,63.39,Ullam Accusamus,Casa e Cozinha,2023-07-05,2023,7,5,Julho,T3,380.34
+165,9,353,21,93.25,Incidunt Ea,Esportes,2023-12-19,2023,12,19,Dezembro,T4,1958.25
+166,2,151,7,585.88,Dolores Quos,Casa e Cozinha,2023-05-31,2023,5,31,Maio,T2,4101.16
+167,14,10,8,365.26,Ullam Accusamus,Casa e Cozinha,2023-01-10,2023,1,10,Janeiro,T1,2922.08
+168,10,363,16,42.40,Excepturi Enim,Casa e Cozinha,2023-12-29,2023,12,29,Dezembro,T4,678.40
+169,3,138,9,530.33,Ipsam Mollitia,Eletrônicos,2023-05-18,2023,5,18,Maio,T2,4772.97
+170,10,241,4,674.39,Excepturi Enim,Casa e Cozinha,2023-08-29,2023,8,29,Agosto,T3,2697.56
+171,12,276,10,39.79,Veritatis Optio,Esportes,2023-10-03,2023,10,3,Outubro,T4,397.90
+172,14,231,13,96.78,Ullam Accusamus,Casa e Cozinha,2023-08-19,2023,8,19,Agosto,T3,1258.14
+173,3,63,10,300.83,Ipsam Mollitia,Eletrônicos,2023-03-04,2023,3,4,Março,T1,3008.30
+174,7,256,8,43.57,Nulla Dolor,Livros,2023-09-13,2023,9,13,Setembro,T3,348.56
+175,4,306,18,25.46,Ipsum Nihil,Esportes,2023-11-02,2023,11,2,Novembro,T4,458.28
+176,11,142,5,397.84,Rerum Error,Esportes,2023-05-22,2023,5,22,Maio,T2,1989.20
+177,2,55,10,536.97,Dolores Quos,Casa e Cozinha,2023-02-24,2023,2,24,Fevereiro,T1,5369.70
+178,7,225,4,672.20,Nulla Dolor,Livros,2023-08-13,2023,8,13,Agosto,T3,2688.80
+179,5,40,9,580.87,Placeat Sint,Livros,2023-02-09,2023,2,9,Fevereiro,T1,5227.83
+180,6,322,5,582.07,Pariatur Expedita,Roupas,2023-11-18,2023,11,18,Novembro,T4,2910.35
+181,2,17,7,536.75,Dolores Quos,Casa e Cozinha,2023-01-17,2023,1,17,Janeiro,T1,3757.25
+182,7,304,1,370.79,Nulla Dolor,Livros,2023-10-31,2023,10,31,Outubro,T4,370.79
+183,2,283,6,547.13,Dolores Quos,Casa e Cozinha,2023-10-10,2023,10,10,Outubro,T4,3282.78
+184,15,295,20,95.58,Hic Esse,Casa e Cozinha,2023-10-22,2023,10,22,Outubro,T4,1911.60
+185,12,183,4,679.96,Veritatis Optio,Esportes,2023-07-02,2023,7,2,Julho,T3,2719.84
+186,13,287,3,528.35,Officiis Culpa,Eletrônicos,2023-10-14,2023,10,14,Outubro,T4,1585.05
+187,15,273,13,275.87,Hic Esse,Casa e Cozinha,2023-09-30,2023,9,30,Setembro,T3,3586.31
+188,7,205,1,563.41,Nulla Dolor,Livros,2023-07-24,2023,7,24,Julho,T3,563.41
+189,15,65,7,60.30,Hic Esse,Casa e Cozinha,2023-03-06,2023,3,6,Março,T1,422.10
+190,2,281,7,321.66,Dolores Quos,Casa e Cozinha,2023-10-08,2023,10,8,Outubro,T4,2251.62
+191,13,219,3,658.89,Officiis Culpa,Eletrônicos,2023-08-07,2023,8,7,Agosto,T3,1976.67
+192,11,259,1,636.94,Rerum Error,Esportes,2023-09-16,2023,9,16,Setembro,T3,636.94
+193,4,286,14,73.54,Ipsum Nihil,Esportes,2023-10-13,2023,10,13,Outubro,T4,1029.56
+194,6,99,10,420.81,Pariatur Expedita,Roupas,2023-04-09,2023,4,9,Abril,T2,4208.10
+195,9,11,12,227.88,Incidunt Ea,Esportes,2023-01-11,2023,1,11,Janeiro,T1,2734.56
+196,3,218,16,210.90,Ipsam Mollitia,Eletrônicos,2023-08-06,2023,8,6,Agosto,T3,3374.40
+197,5,168,4,549.92,Placeat Sint,Livros,2023-06-17,2023,6,17,Junho,T2,2199.68
+198,13,9,18,234.64,Officiis Culpa,Eletrônicos,2023-01-09,2023,1,9,Janeiro,T1,4223.52
+199,1,211,7,56.73,Repellendus Tempore,Casa e Cozinha,2023-07-30,2023,7,30,Julho,T3,397.11
+200,11,124,6,810.80,Rerum Error,Esportes,2023-05-04,2023,5,4,Maio,T2,4864.80
+201,10,242,5,777.82,Excepturi Enim,Casa e Cozinha,2023-08-30,2023,8,30,Agosto,T3,3889.10
+202,9,26,5,676.65,Incidunt Ea,Esportes,2023-01-26,2023,1,26,Janeiro,T1,3383.25
+203,3,297,4,457.52,Ipsam Mollitia,Eletrônicos,2023-10-24,2023,10,24,Outubro,T4,1830.08
+204,13,203,19,101.84,Officiis Culpa,Eletrônicos,2023-07-22,2023,7,22,Julho,T3,1934.96
+205,15,49,13,261.59,Hic Esse,Casa e Cozinha,2023-02-18,2023,2,18,Fevereiro,T1,3400.67
+206,7,87,4,789.47,Nulla Dolor,Livros,2023-03-28,2023,3,28,Março,T1,3157.88
+207,12,322,4,538.31,Veritatis Optio,Esportes,2023-11-18,2023,11,18,Novembro,T4,2153.24
+208,13,53,21,275.43,Officiis Culpa,Eletrônicos,2023-02-22,2023,2,22,Fevereiro,T1,5784.03
+209,3,267,11,249.86,Ipsam Mollitia,Eletrônicos,2023-09-24,2023,9,24,Setembro,T3,2748.46
+210,3,213,9,223.95,Ipsam Mollitia,Eletrônicos,2023-08-01,2023,8,1,Agosto,T3,2015.55
+211,5,353,22,56.52,Placeat Sint,Livros,2023-12-19,2023,12,19,Dezembro,T4,1243.44
+212,7,280,4,745.92,Nulla Dolor,Livros,2023-10-07,2023,10,7,Outubro,T4,2983.68
+213,2,200,16,55.65,Dolores Quos,Casa e Cozinha,2023-07-19,2023,7,19,Julho,T3,890.40
+214,4,169,5,335.06,Ipsum Nihil,Esportes,2023-06-18,2023,6,18,Junho,T2,1675.30
+215,8,245,13,84.70,Hic Quis,Roupas,2023-09-02,2023,9,2,Setembro,T3,1101.10
+216,7,312,2,597.95,Nulla Dolor,Livros,2023-11-08,2023,11,8,Novembro,T4,1195.90
+217,13,332,14,98.69,Officiis Culpa,Eletrônicos,2023-11-28,2023,11,28,Novembro,T4,1381.66
+218,6,64,17,45.05,Pariatur Expedita,Roupas,2023-03-05,2023,3,5,Março,T1,765.85
+219,3,129,6,558.17,Ipsam Mollitia,Eletrônicos,2023-05-09,2023,5,9,Maio,T2,3349.02
+220,7,45,17,201.80,Nulla Dolor,Livros,2023-02-14,2023,2,14,Fevereiro,T1,3430.60
+221,1,66,3,842.10,Repellendus Tempore,Casa e Cozinha,2023-03-07,2023,3,7,Março,T1,2526.30
+222,1,38,12,192.01,Repellendus Tempore,Casa e Cozinha,2023-02-07,2023,2,7,Fevereiro,T1,2304.12
+223,11,215,19,238.64,Rerum Error,Esportes,2023-08-03,2023,8,3,Agosto,T3,4534.16
+224,15,113,3,814.57,Hic Esse,Casa e Cozinha,2023-04-23,2023,4,23,Abril,T2,2443.71
+225,9,235,2,605.56,Incidunt Ea,Esportes,2023-08-23,2023,8,23,Agosto,T3,1211.12
+226,13,294,2,300.22,Officiis Culpa,Eletrônicos,2023-10-21,2023,10,21,Outubro,T4,600.44
+227,8,349,3,650.64,Hic Quis,Roupas,2023-12-15,2023,12,15,Dezembro,T4,1951.92
+228,3,121,14,98.71,Ipsam Mollitia,Eletrônicos,2023-05-01,2023,5,1,Maio,T2,1381.94
+229,8,192,3,872.10,Hic Quis,Roupas,2023-07-11,2023,7,11,Julho,T3,2616.30
+230,6,281,4,457.98,Pariatur Expedita,Roupas,2023-10-08,2023,10,8,Outubro,T4,1831.92
+231,12,36,7,311.85,Veritatis Optio,Esportes,2023-02-05,2023,2,5,Fevereiro,T1,2182.95
+232,9,101,4,362.12,Incidunt Ea,Esportes,2023-04-11,2023,4,11,Abril,T2,1448.48
+233,2,191,19,266.61,Dolores Quos,Casa e Cozinha,2023-07-10,2023,7,10,Julho,T3,5065.59
+234,3,141,4,546.56,Ipsam Mollitia,Eletrônicos,2023-05-21,2023,5,21,Maio,T2,2186.24
+235,15,322,4,874.36,Hic Esse,Casa e Cozinha,2023-11-18,2023,11,18,Novembro,T4,3497.44
+236,12,344,4,678.83,Veritatis Optio,Esportes,2023-12-10,2023,12,10,Dezembro,T4,2715.32
+237,3,302,4,332.81,Ipsam Mollitia,Eletrônicos,2023-10-29,2023,10,29,Outubro,T4,1331.24
+238,7,291,5,840.63,Nulla Dolor,Livros,2023-10-18,2023,10,18,Outubro,T4,4203.15
+239,10,76,18,117.12,Excepturi Enim,Casa e Cozinha,2023-03-17,2023,3,17,Março,T1,2108.16
+240,1,143,11,589.89,Repellendus Tempore,Casa e Cozinha,2023-05-23,2023,5,23,Maio,T2,6488.79
+241,2,17,8,352.54,Dolores Quos,Casa e Cozinha,2023-01-17,2023,1,17,Janeiro,T1,2820.32
+242,11,139,2,786.17,Rerum Error,Esportes,2023-05-19,2023,5,19,Maio,T2,1572.34
+243,2,222,1,813.25,Dolores Quos,Casa e Cozinha,2023-08-10,2023,8,10,Agosto,T3,813.25
+244,3,256,6,24.17,Ipsam Mollitia,Eletrônicos,2023-09-13,2023,9,13,Setembro,T3,145.02
+245,6,244,6,593.05,Pariatur Expedita,Roupas,2023-09-01,2023,9,1,Setembro,T3,3558.30
+246,7,22,8,325.86,Nulla Dolor,Livros,2023-01-22,2023,1,22,Janeiro,T1,2606.88
+247,9,15,12,354.15,Incidunt Ea,Esportes,2023-01-15,2023,1,15,Janeiro,T1,4249.80
+248,6,246,4,817.00,Pariatur Expedita,Roupas,2023-09-03,2023,9,3,Setembro,T3,3268.00
+249,14,175,2,733.42,Ullam Accusamus,Casa e Cozinha,2023-06-24,2023,6,24,Junho,T2,1466.84
+250,12,125,15,241.40,Veritatis Optio,Esportes,2023-05-05,2023,5,5,Maio,T2,3621.00
+251,1,149,8,443.62,Repellendus Tempore,Casa e Cozinha,2023-05-29,2023,5,29,Maio,T2,3548.96
+252,12,235,2,343.84,Veritatis Optio,Esportes,2023-08-23,2023,8,23,Agosto,T3,687.68
+253,2,314,7,102.38,Dolores Quos,Casa e Cozinha,2023-11-10,2023,11,10,Novembro,T4,716.66
+254,3,25,9,313.18,Ipsam Mollitia,Eletrônicos,2023-01-25,2023,1,25,Janeiro,T1,2818.62
+255,7,33,1,406.39,Nulla Dolor,Livros,2023-02-02,2023,2,2,Fevereiro,T1,406.39
+256,12,112,4,460.85,Veritatis Optio,Esportes,2023-04-22,2023,4,22,Abril,T2,1843.40
+257,13,301,2,345.03,Officiis Culpa,Eletrônicos,2023-10-28,2023,10,28,Outubro,T4,690.06
+258,13,143,9,553.67,Officiis Culpa,Eletrônicos,2023-05-23,2023,5,23,Maio,T2,4983.03
+259,6,87,5,719.63,Pariatur Expedita,Roupas,2023-03-28,2023,3,28,Março,T1,3598.15
+260,14,193,2,506.28,Ullam Accusamus,Casa e Cozinha,2023-07-12,2023,7,12,Julho,T3,1012.56
+261,9,358,9,424.07,Incidunt Ea,Esportes,2023-12-24,2023,12,24,Dezembro,T4,3816.63
+262,3,270,17,161.17,Ipsam Mollitia,Eletrônicos,2023-09-27,2023,9,27,Setembro,T3,2739.89
+263,11,40,6,257.30,Rerum Error,Esportes,2023-02-09,2023,2,9,Fevereiro,T1,1543.80
+264,8,350,1,611.51,Hic Quis,Roupas,2023-12-16,2023,12,16,Dezembro,T4,611.51
+265,11,323,4,632.05,Rerum Error,Esportes,2023-11-19,2023,11,19,Novembro,T4,2528.20
+266,1,230,7,46.11,Repellendus Tempore,Casa e Cozinha,2023-08-18,2023,8,18,Agosto,T3,322.77
+267,12,261,11,220.02,Veritatis Optio,Esportes,2023-09-18,2023,9,18,Setembro,T3,2420.22
+268,9,177,1,650.58,Incidunt Ea,Esportes,2023-06-26,2023,6,26,Junho,T2,650.58
+269,12,142,2,343.70,Veritatis Optio,Esportes,2023-05-22,2023,5,22,Maio,T2,687.40
+270,2,210,2,854.90,Dolores Quos,Casa e Cozinha,2023-07-29,2023,7,29,Julho,T3,1709.80
+271,3,322,18,259.76,Ipsam Mollitia,Eletrônicos,2023-11-18,2023,11,18,Novembro,T4,4675.68
+272,12,92,6,215.91,Veritatis Optio,Esportes,2023-04-02,2023,4,2,Abril,T2,1295.46
+273,14,348,15,95.25,Ullam Accusamus,Casa e Cozinha,2023-12-14,2023,12,14,Dezembro,T4,1428.75
+274,3,317,8,233.97,Ipsam Mollitia,Eletrônicos,2023-11-13,2023,11,13,Novembro,T4,1871.76
+275,11,119,4,825.53,Rerum Error,Esportes,2023-04-29,2023,4,29,Abril,T2,3302.12
+276,13,141,1,613.99,Officiis Culpa,Eletrônicos,2023-05-21,2023,5,21,Maio,T2,613.99
+277,15,316,7,130.73,Hic Esse,Casa e Cozinha,2023-11-12,2023,11,12,Novembro,T4,915.11
+278,10,109,6,560.34,Excepturi Enim,Casa e Cozinha,2023-04-19,2023,4,19,Abril,T2,3362.04
+279,11,350,4,714.82,Rerum Error,Esportes,2023-12-16,2023,12,16,Dezembro,T4,2859.28
+280,7,362,9,71.88,Nulla Dolor,Livros,2023-12-28,2023,12,28,Dezembro,T4,646.92
+281,12,17,21,224.19,Veritatis Optio,Esportes,2023-01-17,2023,1,17,Janeiro,T1,4707.99
+282,6,205,5,182.65,Pariatur Expedita,Roupas,2023-07-24,2023,7,24,Julho,T3,913.25
+283,3,195,8,426.72,Ipsam Mollitia,Eletrônicos,2023-07-14,2023,7,14,Julho,T3,3413.76
+284,11,336,5,318.42,Rerum Error,Esportes,2023-12-02,2023,12,2,Dezembro,T4,1592.10
+285,4,319,6,488.48,Ipsum Nihil,Esportes,2023-11-15,2023,11,15,Novembro,T4,2930.88
+286,2,253,6,89.21,Dolores Quos,Casa e Cozinha,2023-09-10,2023,9,10,Setembro,T3,535.26
+287,15,255,17,110.62,Hic Esse,Casa e Cozinha,2023-09-12,2023,9,12,Setembro,T3,1880.54
+288,15,21,3,759.12,Hic Esse,Casa e Cozinha,2023-01-21,2023,1,21,Janeiro,T1,2277.36
+289,6,269,3,580.49,Pariatur Expedita,Roupas,2023-09-26,2023,9,26,Setembro,T3,1741.47
+290,13,350,1,890.60,Officiis Culpa,Eletrônicos,2023-12-16,2023,12,16,Dezembro,T4,890.60
+291,11,271,5,606.59,Rerum Error,Esportes,2023-09-28,2023,9,28,Setembro,T3,3032.95
+292,11,361,9,182.87,Rerum Error,Esportes,2023-12-27,2023,12,27,Dezembro,T4,1645.83
+293,5,58,15,106.65,Placeat Sint,Livros,2023-02-27,2023,2,27,Fevereiro,T1,1599.75
+294,8,80,9,148.42,Hic Quis,Roupas,2023-03-21,2023,3,21,Março,T1,1335.78
+295,2,27,6,584.26,Dolores Quos,Casa e Cozinha,2023-01-27,2023,1,27,Janeiro,T1,3505.56
+296,13,301,7,481.00,Officiis Culpa,Eletrônicos,2023-10-28,2023,10,28,Outubro,T4,3367.00
+297,12,143,5,625.57,Veritatis Optio,Esportes,2023-05-23,2023,5,23,Maio,T2,3127.85
+298,4,302,2,804.86,Ipsum Nihil,Esportes,2023-10-29,2023,10,29,Outubro,T4,1609.72
+299,2,139,3,505.35,Dolores Quos,Casa e Cozinha,2023-05-19,2023,5,19,Maio,T2,1516.05
+300,4,185,5,447.65,Ipsum Nihil,Esportes,2023-07-04,2023,7,4,Julho,T3,2238.25
